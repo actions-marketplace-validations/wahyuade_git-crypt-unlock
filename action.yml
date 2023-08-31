@@ -1,6 +1,6 @@
-name: 'Git-Crypt Unlock'
+name: 'Git-Crypt Action Unlock'
 
-author: 'Danstan Onyango - Zemuldo'
+author: 'Wahyu Ade Sasongko'
 
 description: 'Action to Unlock files encrypted using Git-Crypt, supports keys with passphrase'
 
